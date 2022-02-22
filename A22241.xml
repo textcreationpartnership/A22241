@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation against excesse of lauish and licentious speech of matters of state</title>
+            <title>Proclamations. 1620-12-24</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22241</idno>
+            <idno type="STC">STC 8649</idno>
+            <idno type="STC">ESTC S100946</idno>
+            <idno type="EEBO-CITATION">99836773</idno>
+            <idno type="PROQUEST">99836773</idno>
+            <idno type="VID">1059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1686:62)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation against excesse of lauish and licentious speech of matters of state</title>
+                  <title>Proclamations. 1620-12-24</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Iohn Bill, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XX. [1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Although the growth of intercourse with foreign nations has caused a greater liberty of discourse, even concerning matters of State, than ever before, the King would not stop it, but that it has become too free with matters of State. None are to intermeddle in such matters at home or abroad, but keep to that modest and reverent regard of matters above their their reach that befits good subjects. No man to think himself free from punishment because there are so many offenders. Well-disposed subjects will be punished, and much more those suspected for any reason of disaffection." -- Steele.</note>
+                  <note>Dated at end: White-hall, the 24. of December, in the eighteenth yeere of our reigne ... .</note>
+                  <note>Steele notation: Amassadors weaknesse glos-; Arms 11.</note>
+                  <note>Reproduction of the originals in the Henry E. Huntington Library and Art Gallery (Early English books) and the British Library (Misc. Brit. tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of speech --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:1059:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation againt exceſſe of Lauiſh and Licentious <hi>Speech of matters of State.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Lthough the commixture of Nations, confluence of Ambaſſadors,</hi> and the relation, which the affaires of Our Kingdomes haue had to<g ref="char:EOLhyphen"/>wards the buſineſſe and intereſts of forraine States, haue cauſed, during Our Regiment, a greater openneſſe, and libertie of diſcourſe, euen con<g ref="char:EOLhyphen"/>cerning matters of State, (which are no Theames, or ſubiects fit for vulgar persons, or common meetings) then hath been in former times, uſed or permitted; And although in Our owne Nature, and Iudge<g ref="char:EOLhyphen"/>ment, Wee doe well allow of conuenient freedome of ſpeech, eſteeming any ouer curious or reſtrained hand carried in that kind, rather as a weakneſſe, or elſe ouer much ſeueritie of Gouernment, then other wiſe: Yet neuertheleſſe, foraſmuch as it is come Our eares, by common report, That there is at this time a more licentious paſſage of lauiſh diſcourſe, and bold Cenſure in matters of State, then hath been heretofore, or is fit to be ſuffered; Wee haue thought it neceſſary, by the aduice of Our Priuie Councell, to giue forewarning unto Our louing Subiects, of this exceſſe and pre<g ref="char:EOLhyphen"/>ſumption; And ſtraitly to command them and euery of them, from the higheſt to the loweſt, to take heede, how they intermeddle by Penne, or Speech, with cauſes of State, and ſecrets of Empire, either at home, or abroad, but containe themſelues within that modeſt and reuerent re<g ref="char:EOLhyphen"/>gard, of matters, aboue their reach and calling, that to good and dutifull Subiects apper<g ref="char:EOLhyphen"/>taineth; As alſo not to giue attention, or any manner of applauſe or entertainement to ſuch diſ<g ref="char:EOLhyphen"/>courſe, without acquainting ſome of Our Priuie Councell, or other principall Officers there with<g ref="char:EOLhyphen"/>all, reſpectiue to the place where ſuch ſpeeches ſhall be vſed, within the ſpace of foure and twentie houres, vnder paine of impriſonment, and Our High diſpleaſure.</p>
+            <p>And let no man thinke, after this Our forewarning, to paſſe away with impunitie, in reſpect of the multitude and generalitie of Offenders in this kinde; but knowe, that it will light vpon ſome of the firſt, or for wardſt of them, to be ſeuerely puniſhed, for example to others.</p>
+            <p>And, if we ſhalbe ſenſible of this kind of contempt, euen towards ſuch of Our louing Subiects, as are obedient to Our Lawes, and conformable to Our proceedings in Church, and Common wealth, vnto whom, wee cannot impute it, to proceede otherwiſe, then out of raſhneſſe, euill cuſtome, or too much paſſion: much more, let them looke to it, who in reſpect, that they are other<g ref="char:EOLhyphen"/>wiſe liable to Our Lawes, or of ſuſpected affection toward Our Gouernment, may giue vs iuſt cauſe to thinke, that it proceedeth from the ouerflowe of a worſe, or more corrupt fountaine.</p>
+            <p>Neither let any man miſtake Vs ſo much, as to thinke, that by giuing faire, and ſpecious attributes to Our Perſon, they can couer the ſcandalls, which they otherwiſe lay vpon Our Gouern<g ref="char:EOLhyphen"/>ment, but conceiue, that wee make no other conſtruction of them, but as fine, and artificiall gloſ<g ref="char:EOLhyphen"/>ſes, the better to giue paſſage to the reſt of their imputations, and ſcandalls.</p>
+            <closer>
+               <dateline>Giuen at White-hall, <date>the 24. of December, in the eighteenth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by IOHN BILL, Printer to the Kings moſt Excellent Maieſtie. M.DC.XX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
